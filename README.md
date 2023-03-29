@@ -1,0 +1,1 @@
+This is the demo project in order to recap my knowledge about docker images and containers, registries and repositories, and so on. 
